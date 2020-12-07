@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This blog is like a storage space in which I decided to deposit my notes about common Design Patterns.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+If you would like me to add a specific pattern, feel free to let me know...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[thomas.lamendola@gmail.com](mailto:thomas.lamendola@gmail.com)
