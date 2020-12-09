@@ -4,8 +4,6 @@ title: Introduction
 published: true
 ---
 
-# Welcome!
-
 "Why this blog?", you may ask.
 Good question... and the answer is simple.
 
