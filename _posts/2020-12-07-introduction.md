@@ -5,7 +5,7 @@ published: true
 ---
 
 "Why this blog?", you may ask.
-Good question... and the answer is simple.
+Good question... the answer is simple.
 
 I struggled to find an online resource in which I could comfortably reference any Design Patterns, with no headaches.
 I then decided to seriously study these Patterns and break them down nicely, taking notes and put them here, for my own reference, because I also struggle to memorise information.
